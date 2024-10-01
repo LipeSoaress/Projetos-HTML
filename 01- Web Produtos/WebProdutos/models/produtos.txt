@@ -1,0 +1,3 @@
+Pão de queijo;5;1
+Doritos;17;50
+monkey;2;3
